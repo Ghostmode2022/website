@@ -1,1 +1,6 @@
+wpjackpotsale.com is a website which re-distributes website themes and also give support for them on whatsapp
+for integrating whatsapp number through whatsapp web we need to embed "https://web.whatsapp.com/send?phone=919804368825"
 Create an awesome ecommerce website
+1. OceanWP is a good theme - one of the youtuber suggested it. 
+2. zakra is a simple theme for less number of products like us - it has some different layouts for different purposes.
+3. Shapely
