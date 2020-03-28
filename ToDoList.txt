@@ -1,6 +1,30 @@
 wpjackpotsale.com is a website which re-distributes website themes and also give support for them on whatsapp
 for integrating whatsapp number through whatsapp web we need to embed "https://web.whatsapp.com/send?phone=919804368825"
-Create an awesome ecommerce website
-1. OceanWP is a good theme - one of the youtuber suggested it. 
-2. zakra is a simple theme for less number of products like us - it has some different layouts for different purposes.
-3. Shapely
+
+Chose theme
+1. OceanWP is a good theme - most customizable theme.
+2. Zakra is a simple theme for less number of products like us - it has some different layouts for different purposes.
+3. Shapely - is also good and an average choice for us.
+
+Chose Image Optimization Pluggin
+1. Imagify - 25Mb is free per month and on sign-up bonus 25Mb (WPCrafter.com WordPress For Non-Techies)
+2. ShortPixel - 100 free image per month - count is not on the number of images uploaded, it is on the no of images downloaded.(WPCrafter.com WordPress For Non-Techies)
+3. Smush - Optimization quality is not good(WPCrafter.com WordPress For Non-Techies) - Lazy load is available -  this will show up a low quality image and in the background the high quality image will be continuing to load. 
+4. ewww - 
+
+Minify the code - html/css/javascript - converts the human redable format of the code to computer redable format which will reduce the computer's time to read the code. 
+
+
+Promises Delivered
+
+
+Things that needs to be kept in mind when creating a website in wordpress
+1. Settings -> General -> Membership -> Anyone can register should be ticked.
+2. In permlinks -> select post name instead of the date and time. 
+
+Jetpack Account Details:
+on9sid@gmail.com
+V***************
+1.Market on Facebook
+2.Contact customers with Mailchimp 
+3.Drive sales with Google Shopping
