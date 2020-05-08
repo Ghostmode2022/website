@@ -1,0 +1,19 @@
+N is whatever is needed to preserve the proportion of the original file
+
+If the image orientation is landscape (width greater than height):
+Thumb: 100 x N 
+Mobile: 480 x N
+Display: 1024 x N
+Full size: 1920 x N
+
+If image orientation is portrait (height greater than width):
+Thumb: N x 56
+Mobile: N x 270
+Display: N x 576
+Full size: N x 1080
+
+For an HD image the resolution should be 1280 x 720.
+For a Full HD image the resolution should be 1920 x 1080.
+
+Best Aspect Ratio is 16:9
+Best dpi for a picture is 72.
